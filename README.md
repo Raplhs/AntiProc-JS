@@ -1,7 +1,7 @@
 # 👨‍💻Features
 1) Specify your processes in the 'procs' array.
 2) It runs this code every second and if it finds matching processes, it will exit.
-   I added another file that instead terminates the processes if found to be running.
+   **I **also** added another file that instead terminates the processes if found to be running.**
 
    
 # Disclaimer
